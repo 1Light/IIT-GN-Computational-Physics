@@ -1,1 +1,1 @@
-# IIT-Gn-python-physics
+# IIT GN Computational Physics
